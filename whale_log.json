@@ -138,5 +138,21 @@
     "to": "0x781fad2c640f0744658a586f69295acb731862dc",
     "hash": "0xd6bdebb35bb9faac2811556fe744bd72039e18bcd4320a587e5056c59e75232c",
     "timestamp": "2025-06-17 12:57:41"
+  },
+  {
+    "eth": 9.856145938247442,
+    "from": "0x44d07625c7cc62ae2bf7c81837a865b4460fb838",
+    "to": "0x8fc3c1ba0d6300d704836ca5c418440ada40cc43",
+    "hash": "0x2da01a5bf019ff89cb280429d914da2bb54abe006617c3ebf970f3453fb66055",
+    "time_utc": "2025-06-17 13:04:47",
+    "time_wib": "2025-06-17 20:04:47"
+  },
+  {
+    "eth": 235.94,
+    "from": "0xf584f8728b874a6a5c7a8d4d387c9aae9172d621",
+    "to": "0x4a2fbcb08cd3a69ec9ab5b5beff51218819055e5",
+    "hash": "0xa24000f2acbf1824d7af4123067f00bc59ba9a069b321cb6d363035cb0677140",
+    "time_utc": "2025-06-17 13:04:47",
+    "time_wib": "2025-06-17 20:04:47"
   }
 ]
